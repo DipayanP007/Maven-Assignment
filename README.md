@@ -4,6 +4,7 @@
 
 `cd` to the folder in terminal and execute following commands: 
 `mvn clean install`
+Changed readme more
 
 `mvn package`
 
